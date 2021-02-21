@@ -1,7 +1,7 @@
 package socket
 
 import (
-	"github.com/luobin998877/go_utility/counter"
+	"github.com/arthasyou/utility-go/counter"
 )
 
 var node string

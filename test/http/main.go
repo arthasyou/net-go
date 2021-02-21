@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"time"
 
-	grpc "github.com/luobin998877/go_net/grpc"
-	"github.com/luobin998877/go_net/http"
+	grpc "github.com/arthasyou/net-go/grpc"
+	"github.com/arthasyou/net-go/http"
 )
 
 func main() {

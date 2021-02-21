@@ -1,7 +1,7 @@
 package grpc
 
 import (
-	"github.com/luobin998877/go_grpc_with_consul/service"
+	"github.com/arthasyou/grpc-consul-go/service"
 )
 
 // Cli grpc client

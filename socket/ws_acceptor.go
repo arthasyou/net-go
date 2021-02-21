@@ -1,10 +1,10 @@
 package socket
 
 import (
+	grpc "github.com/arthasyou/net-go/grpc"
+	"github.com/arthasyou/net-go/packet"
+	"github.com/arthasyou/utility-go/counter"
 	"github.com/gorilla/websocket"
-	grpc "github.com/luobin998877/go_net/grpc"
-	"github.com/luobin998877/go_net/packet"
-	"github.com/luobin998877/go_utility/counter"
 )
 
 type wsChan struct {

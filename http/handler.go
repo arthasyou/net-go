@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	grpc "github.com/luobin998877/go_net/grpc"
+	grpc "github.com/arthasyou/net-go/grpc"
 )
 
 func apiHandler(w http.ResponseWriter, r *http.Request) {

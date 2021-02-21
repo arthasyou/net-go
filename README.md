@@ -1,2 +1,2 @@
-# github.com/luobin998877/go_net
+# github.com/arthasyou/net-go
 

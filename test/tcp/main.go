@@ -9,12 +9,12 @@ import (
 	"syscall"
 	"time"
 
-	grpc "github.com/luobin998877/go_net/grpc"
-	"github.com/luobin998877/go_net/packet"
-	"github.com/luobin998877/go_net/socket"
-	_ "github.com/luobin998877/go_net/socket"
+	grpc "github.com/arthasyou/net-go/grpc"
+	"github.com/arthasyou/net-go/packet"
+	"github.com/arthasyou/net-go/socket"
+	_ "github.com/arthasyou/net-go/socket"
 
-	"github.com/luobin998877/go_utility/logger"
+	"github.com/arthasyou/utility-go/logger"
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
 )

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/luobin998877/go_utility/logger"
+	"github.com/arthasyou/utility-go/logger"
 	"go.uber.org/zap"
 )
 

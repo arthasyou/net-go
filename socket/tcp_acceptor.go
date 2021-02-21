@@ -4,9 +4,9 @@ import (
 	"encoding/binary"
 	"net"
 
-	grpc "github.com/luobin998877/go_net/grpc"
-	"github.com/luobin998877/go_net/packet"
-	"github.com/luobin998877/go_utility/counter"
+	grpc "github.com/arthasyou/net-go/grpc"
+	"github.com/arthasyou/net-go/packet"
+	"github.com/arthasyou/utility-go/counter"
 )
 
 const (
